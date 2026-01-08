@@ -90,6 +90,29 @@ Contrast this with Nietzsche, Marx, Wilde, Joyce—the writers you name for good
 
 McGilchrist does none of these cleanly. He wants the authority of science, the depth of myth, and the safety of retreat. You can have two. You can’t have all three without paying a price in clarity.
 
+<br>
+
+<div style="max-width: 100%;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      src="https://www.youtube.com/embed/aRq4hAEF6yM?start=113"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <p style="font-size: 0.9em; line-height: 1.4; margin-top: 0.5em;">
+    I advise that you consider your position carefully, perhaps adopting a more flexible posture,
+    while keeping your ear to the ground, covering your retreat and watching your rear.
+  </p>
+</div>
+
+<br>
+
+
+
 So what’s going on in this world?
 A lot of people are starving for meaning but still want peer review to bless it. McGilchrist gave them a story that feels ancient, neurological, and redemptive—without forcing them to read poetry, learn philosophy properly, or sit with real uncertainty.
 
