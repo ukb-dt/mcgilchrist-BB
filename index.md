@@ -92,24 +92,34 @@ McGilchrist does none of these cleanly. He wants the authority of science, the d
 
 <br>
 
+<br>
+
 <div style="max-width: 100%;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
     <iframe
       src="https://www.youtube.com/embed/aRq4hAEF6yM?start=113"
-      style="position: absolute; top: 0; left: 0; width: 65%; height: 100%;"
+      style="position: absolute; inset: 0; width: 65%; height: 65%;"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen>
     </iframe>
   </div>
 
-  <p style="font-size: 0.9em; line-height: 1.4; margin-top: 0.5em;">
-    <em>I advise that you consider your position carefully, perhaps adopting a more flexible posture,
-    while keeping your ear to the ground, covering your retreat and watching your rear.</em>
+  <p style="
+    font-size: 0.9em;
+    line-height: 1.4;
+    margin: 0.5em 0 0;
+    max-width: 65%;
+  ">
+    <em>
+      I advise that you consider your position carefully, perhaps adopting a more flexible posture,
+      while keeping your ear to the ground, covering your retreat and watching your rear.
+    </em>
   </p>
 </div>
 
 <br>
+
 
 
 
