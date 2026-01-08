@@ -90,10 +90,8 @@ Contrast this with Nietzsche, Marx, Wilde, Joyce—the writers you name for good
 
 McGilchrist does none of these cleanly. He wants the authority of science, the depth of myth, and the safety of retreat. You can have two. You can’t have all three without paying a price in clarity.
 
-<br>
 
 <br>
-
 <div style="max-width: 100%;">
   <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
     <iframe
@@ -103,9 +101,7 @@ McGilchrist does none of these cleanly. He wants the authority of science, the d
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen>
     </iframe>
-  </div>
-
-  <p style="
+      <p style="
     font-size: 0.9em;
     line-height: 1.4;
     margin: 0.5em 0 0;
@@ -116,8 +112,7 @@ McGilchrist does none of these cleanly. He wants the authority of science, the d
       while keeping your ear to the ground, covering your retreat and watching your rear.
     </em>
   </p>
-</div>
-
+  </div>
 <br>
 
 
