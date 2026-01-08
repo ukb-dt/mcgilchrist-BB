@@ -104,8 +104,8 @@ McGilchrist does none of these cleanly. He wants the authority of science, the d
   </div>
 
   <p style="font-size: 0.9em; line-height: 1.4; margin-top: 0.5em;">
-    I advise that you consider your position carefully, perhaps adopting a more flexible posture,
-    while keeping your ear to the ground, covering your retreat and watching your rear.
+    <em>I advise that you consider your position carefully, perhaps adopting a more flexible posture,
+    while keeping your ear to the ground, covering your retreat and watching your rear.</em>
   </p>
 </div>
 
