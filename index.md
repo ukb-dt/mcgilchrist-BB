@@ -6,7 +6,7 @@
 - [Home](https://ukb-dt.github.io/canon-00/)
 - [Oxen of the Sun](https://ukb-dt.github.io/attempt-at-self-criticism/)     
 
-**McGilchrist:** pages 463–517 are “Notes” (really footnotes). They are in small print. That is 54 dense text that is gesturing at academic rigor. But footnote 21 of intro reads:
+**[McGilchrist](https://ukb-dt.github.io/mcgilchrist-CC/):** pages 463–517 are “Notes” (really footnotes). They are in small print. That is 54 dense text that is gesturing at academic rigor. But footnote 21 of intro reads:
 
 > “very roughly indeed, and I cannot now remember where”.   
 
